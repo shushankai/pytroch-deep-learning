@@ -177,3 +177,4 @@ cython_debug/
 # My files
 .PTDL-venv/
 .vscode/
+Data/
